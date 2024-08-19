@@ -6,10 +6,6 @@ and NPCs (non-player characters) that attacks based on a random number generator
 You have 100 health points and the monster has 200 health points.
 Both of you can overheal and block attacks.
 
-^
-|
-|
-|
 
 Story for the game:
 - Your character just woke up and boom! It's a boss fight!
